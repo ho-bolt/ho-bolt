@@ -19,6 +19,7 @@
 
 ### 🔭 가장 최근에 만들고 있는 것 
 #### 📖 오픈형 온/오프라인 독서 스터디 모임 서비스 북-잉 
+### 📕[ 북잉 바로가기](https://www.book-ing.co.kr/)
 
 <!--
 **ho-bolt/ho-bolt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
